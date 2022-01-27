@@ -36,6 +36,8 @@ iOS:
 - CocoaTouch, CoreData, CoreGraphics, CoreAnimation, CoreLocation, Notification, MapKit, etc
 - SwiftUI, Combine
 - Alamofire/AFNetworking, Parse SDK, Core Text, Fabric, Firebase, React Programming, ReactNative, RxSwift
+- Xcode, Instruments, CocoaPods, Carthage, Swift Package Manager
+- Test Flight, Fastlane, TeamCity, Github Action, CI/CD, In House iOS Air installation
 
 ## Best Practices: 😅
 
@@ -70,3 +72,54 @@ iOS:
 <a href="https://www.w3schools.com/jquery/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="jquery" width="20" height="15"/> </a>
 
 </div>
+
+## Databases: 😀
+  - MySQL, SQLite, SQL Server, MongoDb, PostgreSQL, Realm
+
+## Tools:
+ - Unix, Git, RegEx
+ - Photoshop, PaintCode, Figma, Sketch, Zeplin
+<br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farshadmb&show_icons=true&locale=en&layout=compact" alt="farshadmb" /></p>
+<p>
+
+<p align="left"> <a href="https://twitter.com/xtremeagle" target="blank"><img src="https://img.shields.io/twitter/follow/xtremeagle?logo=twitter&style=for-the-badge" alt="xtremeagle" /></a></p>
+
+- 🌱 I’m currently learning **CoreML, ARKit, Algorithm and etc**
+
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/farshadmousalou/](https://www.linkedin.com/in/farshadmousalou/)
+
+- 📝 I regularly write articles on [https://medium.com/@farshadmb](https://medium.com/@farshadmb)
+
+- 💬 Ask me about **iOS, macOS, Swift, Objective-c, anything around the software engineering.**
+
+- 📫 How to reach me **you can contact me via [linkedin](https://www.linkedin.com/in/farshadmousalou/).**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/farshadmousalou/](https://www.linkedin.com/in/farshadmousalou/)
+
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+
+- [Upload dSYM file automatically into Firebase CrashlyticsforiOS](https://medium.com/@farshadmb/upload-dsym-file-automatically-into-firebase-crashlytics-for-ios-253439165bab)
+- New posts and articles are coming soon.
+<!-- BLOG-POST-LIST:END -->
+</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/xtremeagle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xtremeagle" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/farshadmousalou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farshadmousalou" height="30" width="40" /></a>
+<a href="https://medium.com/@farshadbm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@farshadbm" height="30" width="40" /></a>
+</p>
+<div align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=farshadmb&show_icons=true&locale=en" alt="farshadmb" width="45%" height="75%"/><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=farshadmb&" alt="farshadmb" width="45%" height="75%"/>
+</div>
+<p>
+<br>
+<br>
+<br>
+<br>
+<br
+<br>
+</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farshadmb" alt="farshadmb" width="100%"/></a></p>
