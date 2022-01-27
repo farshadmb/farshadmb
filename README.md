@@ -20,7 +20,7 @@ Results-driven mobile software architect and developer specializing in iOS. Pass
 
 ## The technology and framework which I use in iOS Development.😎🤓🤣
 
-iOS:
+### iOS:
 <div align="center">
 <a href="https://developer.apple.com/">
 <img src="https://mammothinteractive.com/wp-content/uploads/2021/10/Xcode_icon.png" width="40" height="40"></a>
@@ -51,7 +51,7 @@ iOS:
 - Concurrent Programming,
 - Internationalization (i18n)/Localization (l10n)
 
-# Other Stacks: 😁
+## Other Stacks: 😁
 
 ### Languages & Mobile Development: 
   - PHP, NodeJS, NestJS, Python, JavaScript, C#, C++, C, Express, TypeScript, Ruby
